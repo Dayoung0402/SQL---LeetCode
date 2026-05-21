@@ -4,7 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0184-department-highest-salary](https://github.com/Dayoung0402/SQL---LeetCode/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
