@@ -1,0 +1,8 @@
+SELECT T3.NAME AS name
+FROM (
+SELECT T1.id, T1.managerId AS ID1, T2.id AS ID2, T2.name AS NAME
+FROM Employee AS T1
+LEFT JOIN Employee AS T2
+ON T1.managerId = T2.id ) AS T3
+GROUP BY T3.ID2
+HAVING COUNT(T3.ID2) >= 5;
