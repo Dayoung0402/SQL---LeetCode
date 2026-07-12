@@ -15,4 +15,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0585-investments-in-2016](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0585-investments-in-2016/) | Medium |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 <!---LeetCode Topics End-->
