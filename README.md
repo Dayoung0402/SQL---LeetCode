@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [0585-investments-in-2016](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0585-investments-in-2016/) | Medium |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0620-not-boring-movies](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/1045-customers-who-bought-all-products/) | Medium |
