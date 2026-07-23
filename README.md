@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0585-investments-in-2016/) | Medium |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0595-big-countries/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0607-sales-person](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0610-triangle-judgement/) | Easy |
