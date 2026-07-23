@@ -22,5 +22,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0610-triangle-judgement/) | Easy |
 | [0620-not-boring-movies](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0620-not-boring-movies/) | Easy |
+| [0626-exchange-seats](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/0626-exchange-seats/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/Dayoung0402/SQL---LeetCode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 <!---LeetCode Topics End-->
